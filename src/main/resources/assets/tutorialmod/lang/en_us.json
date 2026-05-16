@@ -1,4 +1,8 @@
 {
   "item.tutorialmod.pink_garnet": "Pink Garnet",
-  "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet"
+  "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet",
+  "block.tutorialmod.pink_garnet_block": "Pink Garnet Block",
+  "block.tutorialmod.fake_bedrock_block": "Fake Bedrock Block",
+  "block.tutorialmod.nuke_block": "Nuke Block",
+  "block.tutorialmod.skrillex_block": "Skrillex Block"
 }

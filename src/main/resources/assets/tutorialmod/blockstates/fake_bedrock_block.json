@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorialmod:block/fake_bedrock_block"
+    }
+  }
+}
