@@ -4,5 +4,8 @@
   "block.tutorialmod.pink_garnet_block": "Pink Garnet Block",
   "block.tutorialmod.fake_bedrock_block": "Fake Bedrock Block",
   "block.tutorialmod.nuke_block": "Nuke Block",
-  "block.tutorialmod.skrillex_block": "Skrillex Block"
+  "block.tutorialmod.skrillex_block": "Skrillex Block",
+
+  "itemgroup.tutorialmod.items": "Items created by Javiereh",
+  "itemgroup.tutorialmod.blocks": "Blocks created by Javiereh"
 }
